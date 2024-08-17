@@ -1,0 +1,23 @@
+[
+  { "ID": 1451, "Name": "RAJKUMAR M", "FacultyID": "PD8003", "Designation": "Assistant Professor Level III", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1450, "Name": "THAMILARASAN P", "FacultyID": "PD8002", "Designation": "Assistant Professor Level III", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1449, "Name": "ARCHANA J", "FacultyID": "AG11143", "Designation": "Assistant Professor Level I", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1448, "Name": "KEERTHANA K", "FacultyID": "IT11142", "Designation": "Assistant Professor Level II", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1447, "Name": "EZHIL G", "FacultyID": "HU11141", "Designation": "Assistant Professor Level I", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1446, "Name": "PRIYA A", "FacultyID": "IT11140", "Designation": "Assistant Professor Level II", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1445, "Name": "ASLIN JERUSHA D", "FacultyID": "HU11139", "Designation": "Assistant Professor Level I", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1444, "Name": "KRISHNA PRIYA G", "FacultyID": "HU11138", "Designation": "Assistant Professor Level I", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1443, "Name": "EDAMAKANTI RAMANJI REDDY", "FacultyID": "FD11137", "Designation": "Assistant Professor Level I", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1442, "Name": "KAMALA SHARADHA R", "FacultyID": "TT11136", "Designation": "Assistant Professor Level I", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1441, "Name": "SNEHA B J", "FacultyID": "TT11135", "Designation": "Assistant Professor Level II", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1440, "Name": "SARANYA S", "FacultyID": "BT11134", "Designation": "Assistant Professor Level I", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1439, "Name": "MAGESWARAN J", "FacultyID": "SM11133", "Designation": "Assistant Professor Level III", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1438, "Name": "SANKARANANTH S", "FacultyID": "EC11131", "Designation": "Assistant Professor Level III", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1437, "Name": "KAVITHA V", "FacultyID": "IT11132", "Designation": "Assistant Professor Level I", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1436, "Name": "SIVARAHINI K", "FacultyID": "FD11130", "Designation": "Assistant Professor Level III", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1435, "Name": "NIVEDHA S", "FacultyID": "IT11129", "Designation": "Assistant Professor Level II", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1434, "Name": "TAMILTHENDRAL M", "FacultyID": "IT11128", "Designation": "Assistant Professor Level III", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1433, "Name": "MANIGANDAN S", "FacultyID": "CH11127", "Designation": "Assistant Professor Level I", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1432, "Name": "JESIN BENETO A", "FacultyID": "CH11126", "Designation": "Assistant Professor Level II", "AllotedVenue": "", "AllotedTime": "", "Releivement": "" },
+  { "ID": 1431, "Name": "GAYATHRI G M", "FacultyID": "HU11125", "Designation": "Assistant Professor Level II"}
+]
